@@ -1,0 +1,61 @@
+RULES
+
+* 18+, Adults only
+* Be kind, we're all gamers here!
+* No explicit content, porn, gore, vore, you name it, not allowed here.
+* No Spamming
+* Look through the Frequently Asked Questions before asking in chat.
+* No griefing, robbing, non-consensual PvP
+* No self Promo, Ask to be featured in our streamer's registry
+
+
+
+{
+    "thumbnail": {
+        "url": "https://github.com/bangbangpow1/gms/blob/main/gabu-minecraft-server.png?raw=true"
+    },
+    "flags": 0,
+    "color": 3319890,
+    "type": "rich",
+    "description": "* 18+, Adults only\n* Be kind, we're all gamers here!\n* No explicit content, porn, gore, vore, you name it, not allowed here.\n* No Spamming\n* Look through the Frequently Asked Questions before asking in chat.\n* No griefing, robbing, non-consensual PvP\n* No self Promo, Ask to be featured in our streamer's registry",
+    "title": "Rules"
+}
+
+
+FAQ
+
+**How do I connect?**
+
+Java Players : minecraft.gabsolution.ca (port is 25565 its default)
+Bedrock players: minecraft.gabsolution.ca (port is 19132, its also default for bedrock)
+
+**Things dont seem to look the same to me as a bedrock player?**
+
+Java players see the custom texture so they get a compass to teleport home, bedrock players will see a paper, either way that item will take you back to spawn when used either left or right clicked!
+
+**I can not build anything, or break any bricks?**
+
+Yes there is a safe zone around the spawn area that will prevent any kind of building or breaking, to preserve the area. Just move a little out of town and you should be good to go!
+
+**Is this Vanilla Minecraft?**
+
+Short answer : Yes!
+Not as short answer: Not entirely, this server is based on "paperMC" which allows for plugin support. Gabu is working tirelessly to implement new and exciting features.
+Currently we have a few plugins installed, and we are looking for more that would add to the experience.
+
+** RPG elements?**
+
+There is a plan to implement mob dropped keys, to open loot chests. These chests will carry powerful gear and items. *wip*
+
+https://github.com/bangbangpow1/gms/blob/main/gabu-minecraft-server.png?raw=true
+
+{
+    "thumbnail": {
+        "url": "https://github.com/bangbangpow1/gms/blob/main/gabu-minecraft-server.png?raw=true"
+    },
+    "flags": 0,
+    "color": 3319890,
+    "type": "rich",
+    "description": "**How do I connect?**\n\nJava Players : minecraft.gabsolution.ca (port is 25565 its default)\nBedrock players: minecraft.gabsolution.ca (port is 19132, its also default for bedrock)\n\n**Things dont seem to look the same to me as a bedrock player?**\n\nJava players see the custom texture so they get a compass to teleport home, bedrock players will see a paper, either way that item will take you back to spawn when used either left or right clicked!\n\n**I can not build anything, or break any bricks?**\n\nYes there is a safe zone around the spawn area that will prevent any kind of building or breaking, to preserve the area. Just move a little out of town and you should be good to go!\n\n**Is this Vanilla Minecraft?**\n\nShort answer : Yes!\nNot as short answer: Not entirely, this server is based on \"paperMC\" which allows for plugin support. Gabu is working tirelessly to implement new and exciting features.\nCurrently we have a few plugins installed, and we are looking for more that would add to the experience. \n\n** RPG elements?**\n\nThere is a plan to implement mob dropped keys, to open loot chests. These chests will carry powerful gear and items. *wip*",
+    "title": "FAQ"
+}
